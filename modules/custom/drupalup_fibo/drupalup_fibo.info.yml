@@ -1,0 +1,4 @@
+name: Durpalup Fibonacci
+description: Go to \modules\custom\drupalup_fibo\tests\src\Unit\FibonacciServiceTest.php to understand how to do PHP Unit Tests
+type: module
+core: 8.x
